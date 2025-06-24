@@ -10,5 +10,5 @@
 5) I have checked for unprofessional wordings , spelling mistakes and other signs which could be identified as traits.
 6) I have identified the language and matter which shows the "Urgency and slightly threatning" where it shows the attacker is desparate.
 7) Finally I have summarized all the work that I have done and created a word document.
-8) I have uploaded that above naming : Report listing traits
+8) I have uploaded that above naming : Report listing all phishing traits.
     
